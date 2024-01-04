@@ -1,2 +1,3 @@
 # omikucsharp
-The omikuji application run with exe style
+EXE形式で動作するおみくじアプリです。今年の運勢を占ってくれます。多分。  
+![](./images/demo.png)
