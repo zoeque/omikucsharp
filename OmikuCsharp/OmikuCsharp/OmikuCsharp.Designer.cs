@@ -60,10 +60,13 @@ namespace OmikuCsharp
             // 
             label2.AutoSize = true;
             label2.Font = new Font("游明朝", 28.2F, FontStyle.Regular, GraphicsUnit.Point, 128);
+            label2.ImageAlign = ContentAlignment.MiddleRight;
             label2.Location = new Point(316, 183);
             label2.Name = "label2";
+            label2.RightToLeft = RightToLeft.Yes;
             label2.Size = new Size(0, 61);
             label2.TabIndex = 2;
+            label2.TextAlign = ContentAlignment.TopCenter;
             // 
             // OmikuCsharp
             // 
